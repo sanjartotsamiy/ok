@@ -1,0 +1,27 @@
+.boss{
+    width: 1440px;
+    height: 1508px;
+    padding: 100px;
+    margin: 0 auto;
+}
+
+.pro{
+    font-size: 100px;
+    text-align: center;
+}
+.boy{
+   
+}
+.as{
+
+}
+.asd{
+   color: gray;
+
+}
+.sar{
+    display: flex;
+    gap: 50px;
+    padding: 100px;
+    text-align: center;
+}
